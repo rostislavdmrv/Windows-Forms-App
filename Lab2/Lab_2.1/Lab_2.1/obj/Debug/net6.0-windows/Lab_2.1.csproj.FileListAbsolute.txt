@@ -1,0 +1,17 @@
+D:\tsp\Lab_2.1\Lab_2.1\bin\Debug\net6.0-windows\Lab_2.1.exe
+D:\tsp\Lab_2.1\Lab_2.1\bin\Debug\net6.0-windows\Lab_2.1.deps.json
+D:\tsp\Lab_2.1\Lab_2.1\bin\Debug\net6.0-windows\Lab_2.1.runtimeconfig.json
+D:\tsp\Lab_2.1\Lab_2.1\bin\Debug\net6.0-windows\Lab_2.1.dll
+D:\tsp\Lab_2.1\Lab_2.1\bin\Debug\net6.0-windows\ref\Lab_2.1.dll
+D:\tsp\Lab_2.1\Lab_2.1\bin\Debug\net6.0-windows\Lab_2.1.pdb
+D:\tsp\Lab_2.1\Lab_2.1\obj\Debug\net6.0-windows\Lab_2.1.csproj.AssemblyReference.cache
+D:\tsp\Lab_2.1\Lab_2.1\obj\Debug\net6.0-windows\Lab_2._1.Form1.resources
+D:\tsp\Lab_2.1\Lab_2.1\obj\Debug\net6.0-windows\Lab_2.1.csproj.GenerateResource.cache
+D:\tsp\Lab_2.1\Lab_2.1\obj\Debug\net6.0-windows\Lab_2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\tsp\Lab_2.1\Lab_2.1\obj\Debug\net6.0-windows\Lab_2.1.AssemblyInfoInputs.cache
+D:\tsp\Lab_2.1\Lab_2.1\obj\Debug\net6.0-windows\Lab_2.1.AssemblyInfo.cs
+D:\tsp\Lab_2.1\Lab_2.1\obj\Debug\net6.0-windows\Lab_2.1.csproj.CoreCompileInputs.cache
+D:\tsp\Lab_2.1\Lab_2.1\obj\Debug\net6.0-windows\Lab_2.1.dll
+D:\tsp\Lab_2.1\Lab_2.1\obj\Debug\net6.0-windows\ref\Lab_2.1.dll
+D:\tsp\Lab_2.1\Lab_2.1\obj\Debug\net6.0-windows\Lab_2.1.pdb
+D:\tsp\Lab_2.1\Lab_2.1\obj\Debug\net6.0-windows\Lab_2.1.genruntimeconfig.cache
