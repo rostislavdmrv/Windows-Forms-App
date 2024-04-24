@@ -1,0 +1,10 @@
+D:\TUVaRNA\Course3\sem5\TSP-C#\zadachi\upr5\zad5.2\zad5.2\bin\Debug\zad5.2.exe.config
+D:\TUVaRNA\Course3\sem5\TSP-C#\zadachi\upr5\zad5.2\zad5.2\bin\Debug\zad5.2.exe
+D:\TUVaRNA\Course3\sem5\TSP-C#\zadachi\upr5\zad5.2\zad5.2\bin\Debug\zad5.2.pdb
+D:\TUVaRNA\Course3\sem5\TSP-C#\zadachi\upr5\zad5.2\zad5.2\obj\Debug\zad5.2.csproj.AssemblyReference.cache
+D:\TUVaRNA\Course3\sem5\TSP-C#\zadachi\upr5\zad5.2\zad5.2\obj\Debug\zad5._2.Form1.resources
+D:\TUVaRNA\Course3\sem5\TSP-C#\zadachi\upr5\zad5.2\zad5.2\obj\Debug\zad5._2.Properties.Resources.resources
+D:\TUVaRNA\Course3\sem5\TSP-C#\zadachi\upr5\zad5.2\zad5.2\obj\Debug\zad5.2.csproj.GenerateResource.cache
+D:\TUVaRNA\Course3\sem5\TSP-C#\zadachi\upr5\zad5.2\zad5.2\obj\Debug\zad5.2.csproj.CoreCompileInputs.cache
+D:\TUVaRNA\Course3\sem5\TSP-C#\zadachi\upr5\zad5.2\zad5.2\obj\Debug\zad5.2.exe
+D:\TUVaRNA\Course3\sem5\TSP-C#\zadachi\upr5\zad5.2\zad5.2\obj\Debug\zad5.2.pdb
